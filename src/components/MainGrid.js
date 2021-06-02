@@ -31,7 +31,7 @@ export default function MainGrid() {
 
         <Grid item xs={8}>
           <Paper className={classes.paper}>
-          National Data as of Today
+          <b> Pakistan </b> National Data as of Today
           <National />
           </Paper>
         </Grid>
